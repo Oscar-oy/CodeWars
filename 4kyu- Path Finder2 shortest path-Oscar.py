@@ -1,4 +1,5 @@
 #Path Finder #1: can you reach the exit?
+#add coments here
 import numpy as np
 from queue import Queue
 
