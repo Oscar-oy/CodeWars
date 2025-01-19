@@ -14,6 +14,7 @@ def next_bigger(n):
         return permutaciones[0]
     
     return -1'''
+#solution done by AI
 def next_bigger(n):
     # Convertir el número a una lista de dígitos
     digits = list(str(n))
