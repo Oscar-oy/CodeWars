@@ -1,4 +1,5 @@
 import numpy as np
+'''program doing a spiral'''
 def spiralize(size):
     
     spiral = np.zeros((size, size), dtype=int)
