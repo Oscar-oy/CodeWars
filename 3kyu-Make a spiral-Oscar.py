@@ -1,7 +1,7 @@
 import numpy as np
 '''program doing a spiral'''
 def spiralize(size):
-    
+    #full zeros array
     spiral = np.zeros((size, size), dtype=int)
     spiral[0] = 1
     node = (0,size-1)
